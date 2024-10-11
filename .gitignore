@@ -1,0 +1,8 @@
+# User-specific files
+*.exe
+*.user
+
+# что надо исключить 
+packages/
+debug/
+.vscode/
