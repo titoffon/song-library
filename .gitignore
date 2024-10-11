@@ -1,5 +1,5 @@
 # User-specific files
-*.exe
+main.exe
 *.user
 
 # что надо исключить 
